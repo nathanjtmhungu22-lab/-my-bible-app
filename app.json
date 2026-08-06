@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "My Bible App",
+    "slug": "my-bible-app",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait"
+  }
+}
